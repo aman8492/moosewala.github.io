@@ -8,17 +8,28 @@ font-size: 2em;
 position: relative;
 top: 3.2vh;
 }
-.navbar a:active{
+#navbar a:active{
 background-color: whitesmoke;
 color: black;
 }
+#navbar a {
+    color: #9fbbbd;
+    margin: 9px 1px 6px 1px;
+    font-size: 12px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 2.2vh;
+}
 
 video{
-    width: 96vw;
-    left: 2px;
-    height: auto;
- margin-top: -1vh;
+  
+ width: 96%;
+ height: auto;
+ position: relative;
+ left: 2vw;
 }
+
 
 #top{
     position: relative;
@@ -83,10 +94,11 @@ width: 80vw;
 
 }
 #btn{
-    top: 360.8vh;
-    width: 18vw;
+    top: 355.8vh;
+    width: 13vw;
     height: 2vh;
-    display: inline;
+    display: flex;
+    font-size: 10px;
 }
 
 
