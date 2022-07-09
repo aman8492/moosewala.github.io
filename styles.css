@@ -37,7 +37,7 @@ header h1 {
 
 #navbar a {
     text-decoration: none;
-    color: whitesmoke;
+    color: #9fbbbd;
     font-weight: bolder;
     margin: 1.2vh 0.5vw;
     width: 19.5vh;
@@ -61,24 +61,12 @@ a:active{
     background-color:whitesmoke;
 }
 video{
-width: 24vw;
-left: 0.7vw;
+width: 19vw;
+
+margin:0px 0px 0px 4px  ;
+padding: 0px 0px 0px 3px  ;
 top: 10vh;
 position: relative;
-}
-#btn{
-    position: relative;
-    top: 80vh;
-    height: 2h;
-    width: 5vw;
- float: right;
- right: 3vw;
- border-radius: 2vh;
- font-size: small;
- font-weight: bold;
- text-align: center;
- justify-content: center;
- align-items: center;
 }
 
 
@@ -96,7 +84,7 @@ position: relative;
 position: relative;
 top: 12vh;
 margin-top: 0vh;
-margin-left: 6px;
+margin-left: 10px;
 
 
 }
@@ -109,9 +97,19 @@ margin-left: 6px;
 #b2line{
     
     position: relative;
-    top: 17.5vh;
+    top: 20.5vh;
     width: 96vw;
     margin-left: 1.2vw;
+    
+}
+#bio{
+    color: rgb(203, 203, 79);
+    font-size: 5vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    top: 14vh;
+    position: relative;
     
 }
 
@@ -119,10 +117,11 @@ margin-left: 6px;
 
 #paragraph{
 position: relative;
-top: 13vh;
+top: 15vh;
 color: rgb(226, 226, 226);
 margin-left: 4px;
 letter-spacing: 1px;
+font-size: 25px;
 font-family: 'Gentium Book Plus', serif;
 font-family: 'Signika Negative', sans-serif;
 }
