@@ -1,6 +1,8 @@
+ 
 @media screen and (max-width:1000px){
     body{
         background-color: rgb(41, 38, 38);
+        
     }
     header h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -8,7 +10,7 @@
     position: relative;
     top: 3.2vh;
     }
-    #navbar a:active{
+    #navbar a:hover{
     background-color: whitesmoke;
     color: black;
     }
@@ -166,5 +168,9 @@ margin-left: 11px;
     }
     #icons{
         height: 10vh;
+    }
+    #aman{
+        color: rgb(203, 203, 79);
+        text-decoration: none;
     }
     }
