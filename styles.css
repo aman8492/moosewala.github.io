@@ -118,9 +118,10 @@ margin-left: 10px;
 #paragraph{
 position: relative;
 top: 15vh;
-color: rgb(226, 226, 226);
+color:#9fbbbd;
 margin-left: 4px;
 letter-spacing: 1px;
+
 font-size: 25px;
 font-family: 'Gentium Book Plus', serif;
 font-family: 'Signika Negative', sans-serif;
@@ -164,4 +165,8 @@ font-family: 'Signika Negative', sans-serif;
 footer{
     box-shadow: 0px 25px 50px rgba(0,0,0,0.2);
     height: 15vh;
+}
+#aman{
+    color: rgb(203, 203, 79);
+    text-decoration: none;
 }
