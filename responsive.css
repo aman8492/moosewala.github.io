@@ -4,6 +4,9 @@
         background-color: rgb(41, 38, 38);
         
     }
+ html{
+scroll-behaviour:smooth;
+ }
     header h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 2em;
