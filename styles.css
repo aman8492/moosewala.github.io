@@ -6,6 +6,8 @@
 
 
 }
+html{
+    scroll-behaviour:smooth;}
 
 body {
     background-color: rgb(41, 38, 38);
